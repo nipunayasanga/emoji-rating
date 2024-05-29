@@ -12,3 +12,5 @@ Click on a star to set your rating. The stars will highlight up to the selected 
 
 # Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements.
+
+- Live Link : https://nipunayasanga.github.io/emoji-rating/
